@@ -1,6 +1,3 @@
-# amigoSecreto
-Challenge de Alura One Oracle Next Education
-
 # Amigo Secreto 🎁
 
 ¡Bienvenido al proyecto **Amigo Secreto**! Esta es una aplicación web sencilla que te permite organizar un sorteo de amigos secretos. Los usuarios pueden agregar nombres de amigos, visualizarlos en una lista y realizar un sorteo aleatorio para asignar un amigo secreto a cada participante.
